@@ -6,13 +6,13 @@ ZyTools [Twitter](https://twitter.com/ZyPixelDev)
 
 ZyTools [Github](https://github.com/SnoDev/ZyPixel)
 
-## Welcome to ZyPixel
+## Welcome to ZyTools
 
 ZyTools is a Android / IOS Modding tool made by Zy#9817
 
 ## Get help
 
-having issues with ZyPixel? get help on the [Discord](https://discord.gg/BJjRujr5VH)
+having issues with ZyTools? get help on the [Discord](https://discord.gg/BJjRujr5VH)
 
 ## Where do i download ZyTools?
 
