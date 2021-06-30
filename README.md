@@ -1,3 +1,11 @@
+## ZyPixel
+
+ZyPixel [Discord](https://discord.gg/BJjRujr5VH)
+
+ZyPixel [Twitter](https://twitter.com/ZyPixelDev)
+
+ZyPixel [Github](https://github.com/SnoDev/ZyPixel)
+
 # Welcome to ZyPixel
 
 ZyPixel is a Android / IOS Modding tool made by Frenzy#9817
